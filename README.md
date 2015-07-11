@@ -1,2 +1,2 @@
-# project-euler
-Solving problems from Project Euler
+# project-euler in Clojure
+Solving problems from Project Euler: https://projecteuler.net/archives
